@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Curso Quasar Damaris",
+      "author": "Eder Monteiro eders",
+      "content": "Esté é um artigo sobre Vue 3, Quasar e api Rest"
+    },
+    {
+      "id": 2,
+      "title": "Curso Angular",
+      "author": "Eder Pimba",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "title": "Curso de HTML",
+      "content": "Curso basico para os maniacos",
+      "author": "Rick Mayers",
+      "id": 3
+    },
+    {
+      "title": "Curso de cachorro",
+      "content": "sanduiche de cachorro",
+      "author": "por eder penis",
+      "id": 5
+    },
+    {
+      "title": "Yooo Teste",
+      "content": "ahahuahuahuaha",
+      "author": "Nao temno",
+      "id": 6
+    },
+    {
+      "title": "TEste edelv",
+      "content": "ahahuahuahuaha",
+      "author": "Nao temno",
+      "id": 7
+    }
+  ]
+}
